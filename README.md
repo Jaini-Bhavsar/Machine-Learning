@@ -11,5 +11,5 @@ This repository contains machine learning projects of some Kaggle competition an
 
 **3. Bank Marketing Analysis
 - This project deals with the analysis of bank marketing dataset by making use of two different classifiers: Decision Tree and Random Forest. The data is related to direct marketing campaigns of a Portuguese banking institution. 
-- The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to assess if the product (bank term deposit) would be ('yes') or not ('no') subscribed. The classification goal is to predict if the client will subscribe (yes/no) to a term deposit (variable y)
+- The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to assess if the product (bank term deposit) would be ('yes') or not ('no') subscribed. The classification goal is to predict if the client will subscribe (yes/no) to a term deposit (variable y).
 
