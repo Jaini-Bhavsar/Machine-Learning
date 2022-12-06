@@ -18,4 +18,6 @@ This repository contains machine learning projects of some Kaggle competition an
 - https://www.kaggle.com/competitions/digit-recognizer
 - The goal of the project is to correctly identify digits from a dataset of tens of thousands of handwritten images. The data files train.csv and test.csv contain gray-scale images of hand-drawn digits, from zero through nine. The training data set, (train.csv), has 785 columns. The first column, called "label", is the digit that was drawn by the user. The rest of the columns contain the pixel-values of the associated image.
 
-
+**5. Churn Modelling**
+- https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling
+- It is a binary classification problem. Artifical Neural Network (ANN) has been used in this dataset. This data set contains details of a bank's customers and the target variable is a binary variable reflecting the fact whether the customer left the bank (closed his account) or he continues to be a customer.Based on the data, bank can prevent the execution of their cutomers by providing more services, more facilities, etc.
